@@ -1,0 +1,252 @@
+[
+  {
+    "group_name": "SG-App-001-Finance-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-002-Finance-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-003-HR-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-004-HR-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-005-Payroll-Admins",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-006-Sales-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-007-Sales-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-008-CRM-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-009-CRM-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-010-CRM-Admins",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-011-DataOps-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-012-DataOps-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-013-Snowflake-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-014-Snowflake-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-015-Snowflake-Admins",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-016-AzureOps-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-017-AzureOps-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-018-AzureOps-Admins",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-019-PowerBI-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-020-PowerBI-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-021-Tableau-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-022-Tableau-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-023-ADF-Operators",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-024-ADF-Admins",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-025-Integration-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-026-Integration-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-027-API-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-028-API-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-029-API-Admins",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-030-Platform-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-031-Platform-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-032-Platform-Admins",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-033-Network-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-034-Network-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-035-Network-Admins",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-036-Security-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-037-Security-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-038-Security-Admins",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-039-Dev-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-040-Dev-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-041-Test-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-042-Test-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-043-Prod-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-044-Prod-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-045-Prod-Admins",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-046-Analytics-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-047-Analytics-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-048-Analytics-Admins",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-049-SharedServices-Readers",
+    "status": "success",
+    "group_id": "dry-run-id"
+  },
+  {
+    "group_name": "SG-App-050-SharedServices-Contributors",
+    "status": "success",
+    "group_id": "dry-run-id"
+  }
+]
